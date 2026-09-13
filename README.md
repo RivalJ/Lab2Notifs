@@ -8,5 +8,4 @@ This project was created to match the assignment requirements as closely as poss
     * might work in other IDEs, but I haven't tested it.
     * best to just use the latest version of IntelliJ
 ### 2. open the file 'Labs2NotifsApplication.java'
-    * located in 'scr/java/com.young2rj.myfirst'
 ### 3. run the file
